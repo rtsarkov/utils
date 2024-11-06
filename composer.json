@@ -1,0 +1,13 @@
+{
+    "name": "mio-code/utils",
+    "description": "Utils for working",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "MioCode\\Utils\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
