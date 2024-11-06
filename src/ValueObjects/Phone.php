@@ -1,5 +1,9 @@
 <?php
 
+namespace MioCode\Utils\ValueObjects;
+
+use Exception;
+
 class Phone
 {
     /**
